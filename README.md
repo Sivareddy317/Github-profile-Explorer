@@ -94,12 +94,10 @@ export GITHUB_TOKEN="your_personal_access_token"
 
 ---
 
-## 💼 Resume & Interview Highlights
+## ⚡ Technical Highlights
 
-If presenting this project in software engineering interviews or on your resume:
-
-- **Zero-Dependency Architecture**: Built an entire production-grade data analytics dashboard using purely native web standards (HTML5, Vanilla CSS, Vanilla ES Modules) and Python Standard Library, demonstrating fundamental mastery of the DOM, SVG vector rendering, and HTTP protocols without framework abstraction crutches.
-- **Custom Interactive SVG Chart Engine**: Engineered SVG bar charts, multi-segment donut charts, and an activity matrix from scratch with mathematical coordinate projection and tooltips.
+- **Zero-Dependency Architecture**: Built a production-grade data analytics dashboard using purely native web standards (HTML5, Vanilla CSS, Vanilla ES Modules) and Python Standard Library, maximizing performance and eliminating build-step overhead.
+- **Custom Interactive SVG Chart Engine**: Engineered SVG bar charts, multi-segment donut charts, and an activity matrix from scratch with mathematical coordinate projection and dynamic tooltips.
 - **In-Memory Rate-Limit Caching**: Implemented a TTL cache on the Python backend proxy that reduces redundant upstream calls to the GitHub REST API by over 80%.
 - **Client-Side Markdown Parser**: Authored a lightweight CommonMark parser supporting code blocks, syntax tags, blockquotes, and lists for instant in-drawer README previews.
 - **State & URL Synchronization**: Maintained browser history and shareable deep-linking via query parameters (`?user=sivareddy317`) synchronized with client-side state and `localStorage`.
